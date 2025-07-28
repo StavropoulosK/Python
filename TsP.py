@@ -16,7 +16,7 @@
 
 
 
-''' Group project for the course Introduction to computers:
+''' Group project of
 
         Γκούσκου Μόλι
 
