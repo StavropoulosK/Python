@@ -6,15 +6,15 @@ To run the program, ensure that Python 3 is installed on your system. Then, down
 
 Upon launching the program, you can navigate to the input type menu and you'll be presented with a menu to input the coordinates (x, y) for each city. You can choose from three input methods:
 
-a)Random Generation – Generate coordinates for a specified number of cities.
+a) Random Generation – Generate coordinates for a specified number of cities.
 
-b)From File – Load coordinates from a text file where:
+b) From File – Load coordinates from a text file where:
 
 &nbsp;&nbsp;&nbsp;&nbsp;The first line contains the number of cities.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Each subsequent line contains two integers representing the x and y coordinates of a city.
 
-c)Manual Entry – Choose the "User" option to enter the number of cities and their coordinates directly through the GUI.
+c) Manual Entry – Choose the "User" option to enter the number of cities and their coordinates directly through the GUI.
 
 After providing the input, click "Run" to display a map showing all cities.
 
