@@ -16,7 +16,7 @@
 
 
 
-''' Group project of the course Introduction to computers:
+''' Group project for the course Introduction to computers:
 
         Γκούσκου Μόλι
 
@@ -88,11 +88,11 @@ class UserTXT():
         self.b0.pack(fill='x', expand=1)
 
         
-                    #COLOR PALETTE           
-                    ###   https://colorhunt.co/palette/226372
+        #COLOR PALETTE           
+        ###   https://colorhunt.co/palette/226372
 
 
-         #ΜΟΛΙΣ ΠΑΤΗΣΕΙΣ ΤΟ buttom ΚΛΕΙΝΕΙ ΤΟ ΠΡΟΓΡΑΜΜΑ ΚΑΙ ΔΗΜΙΟΥΡΓΕΙ ΤΟ ΑΡΧΕΙΟ
+        #ΜΟΛΙΣ ΠΑΤΗΣΕΙΣ ΤΟ buttom ΚΛΕΙΝΕΙ ΤΟ ΠΡΟΓΡΑΜΜΑ ΚΑΙ ΔΗΜΙΟΥΡΓΕΙ ΤΟ ΑΡΧΕΙΟ
 
     def doit(self):
         self.m=open("cities.txt", "w")
