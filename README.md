@@ -10,9 +10,9 @@ a) Random Generation – Generate coordinates for a specified number of cities.
 
 b) From File – Load coordinates from a text file where:
 
-&nbsp;&nbsp;&nbsp;&nbsp;The first line contains the number of cities.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first line contains the number of cities.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Each subsequent line contains two integers representing the x and y coordinates of a city.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each subsequent line contains two integers representing the x and y coordinates of a city.
 
 c) Manual Entry – Choose the "User" option to enter the number of cities and their coordinates directly through the GUI.
 
