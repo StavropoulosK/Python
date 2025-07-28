@@ -1,6 +1,6 @@
 # Python
 
-This is a group project developed for a university Python course. It applies object-oriented programming and linear programming to solve the Travelling Salesman Problem (TSP) using the subtour elimination method. The graphical user interface is built with Tkinter.
+This is a group project developed for a university Python course. It applies object-oriented programming and linear programming to solve the Travelling Salesman Problem (TSP) using the [subtour elimination method](https://pymprog.sourceforge.net/subtour.html). The graphical user interface is built with Tkinter.
 
 To run the program, ensure that Python 3 is installed on your system. Then, download the project files and execute TsP.py.
 
